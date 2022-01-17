@@ -1,0 +1,1 @@
+This is a simple login page form example done using HTML, CSS and Javascript.
