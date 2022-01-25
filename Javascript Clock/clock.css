@@ -1,0 +1,9 @@
+#clockBody {
+  font-family: system-ui;
+  background: #f06d06 ;
+  font-size: 175px;
+  width: 900px;
+  margin: 200px;
+  text-align: center; /* //To align to center o the page */
+
+}
