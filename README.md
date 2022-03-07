@@ -91,6 +91,5 @@ In addittion I also learned to desing for different screen sizes. The challenge 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@fcoxico](https://www.frontendmentor.io/profile/fcoxico)
 - Linkedin - [@franciscojcardoso/](https://www.linkedin.com/in/franciscojcardoso)
